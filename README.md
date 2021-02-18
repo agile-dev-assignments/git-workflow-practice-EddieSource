@@ -8,3 +8,8 @@ Dan Pink’s themes of autonomy, mastery, and purpose are common themes across a
 ## PARAGRAPH 2
 
 Diversity is also a major focus for several companies on the list. Not only is diverse hiring an excellent way to make a positive impact in the world, these companies believe, but research shows that diversity makes teams better.
+
+## Comments
+This is such an interesting and intriguing article. I totally agree with you that diversity is a key to build a positive environment in the Tech industry. 
+
+My name is An Yi
